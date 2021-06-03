@@ -14,7 +14,7 @@ namespace diyetUygulamasi
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();//Yorum Satırı commit deneme
         }
     }
 }
